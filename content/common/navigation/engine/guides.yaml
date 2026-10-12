@@ -499,6 +499,14 @@ navigation:
                 path: /animation/capture
           - title: Graph Editor
             path: /animation/graph-editor
+            section:
+              - title: Overview
+                path: /animation/graph-editor
+              - title: State machine
+                path: /animation/graph-editor-state-machine
+              - title: Expression
+                path: /animation/graph-editor-expression
+                source: /animation/expressions.md
           - title: Inverse kinematics
             path: /animation/inverse-kinematics
       - title: Use animations
@@ -516,6 +524,8 @@ navigation:
             path: /chat/guidelines
           - title: Preset system guidelines
             path: /chat/preset-system-guidelines
+          - title: Quick Words
+            path: /chat/quick-words
           - title: Chat window
             path: /chat/chat-window
           - title: Cross-server chat
