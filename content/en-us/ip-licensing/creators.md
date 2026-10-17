@@ -18,7 +18,7 @@ To explore available licenses in the Licenses catalog:
 1. In the **Explore** dropdown in the Creator Hub, click **Licenses**.
 2. Click an available IP license to see the details page for that specific license.
    <img src="../assets/ip-licensing/LicensesCatalog.png" alt="Screenshot of Licenses page." width="750" />
-3. Click **View details** to see more details about the license, like eligibility requirements and content standards. If the rights holder has added showcase games, a carousel under **About** shows examples of games that already use that IP. Select a game to open its details page.
+3. Click **View details** to see more details about the license, like license requirements and content standards. If the rights holder has added showcase games, a carousel under **About** shows examples of games that already use that IP. Select a game to open its details page.
 
 ## Request to use a license
 
@@ -36,7 +36,7 @@ To request a full game license:
 
 1. In the **Explore** dropdown in the Creator Hub, click **Licenses**.
 2. Select a **Full game** license from the available licenses.
-3. Click **Request license**.
+3. Click **Send request**.
 4. Select the game you want to use for this license request and click **Next**.
 5. Under **Pitch**, enter more details about your game. This can help the rights holder make a decision about your license request. For more information about writing a pitch, see [Pitch details](#pitch-details).
 6. (For perpetual licenses) Under **Experience readiness**, select one of the following:
@@ -51,14 +51,14 @@ To request a full game license:
 An **in-game sales license** applies to a specific eligible experience and
 grants you permission to sell IP-based developer products and game passes
 within that experience. Before you apply, review the license's experience
-eligibility requirements, revenue share, duration, content standards, and brand
+license requirements, revenue share, duration, content standards, and brand
 guidelines.
 
 To request an in-game sales license:
 
 1. In the **Explore** dropdown in the Creator Hub, click **Licenses**.
 2. Select an **In-game sales** license from the available licenses.
-3. Click **Request license**.
+3. Click **Send request**.
 4. Select the game you want to use for this license request and click **Next**.
 5. Under **Pitch**, enter more details about your game. This can help the rights holder make a decision about your license request. For more information about writing a pitch, see [Pitch details](#pitch-details).
 6. Under **Designate IP sales products**, add the relevant developer product and game pass IDs.
@@ -76,13 +76,13 @@ To request an in-game sales license:
 
 ### Marketplace licenses
 
-A **Marketplace license** grants you permission to sell IP-based items to users on Marketplace including games that enable Marketplace sales. Each license applies to a specific creation, uses one revenue share rate, and determines whether you can enable Marketplace resale for IP-based items. Before you apply, review the license's experience eligibility requirements, revenue share, duration, content standards, and brand guidelines.
+A **Marketplace license** grants you permission to sell IP-based items to users on Marketplace including games that enable Marketplace sales. Each license applies to a specific creation, uses one revenue share rate, and determines whether you can enable Marketplace resale for IP-based items. Before you apply, review the license's experience license requirements, revenue share, duration, content standards, and brand guidelines.
 
 To request a Marketplace license:
 
 1. In the **Explore** dropdown in the Creator Hub, click **Licenses**.
 2. Select a **Marketplace** license from the available licenses.
-3. Click **Request license**.
+3. Click **Send request**.
 4. Select license owner for which group or user you want to use for this license request and click **Next**.
 5. Under **Pitch**, enter more details about how you intend to use the IP. This can help the rights holder make a decision about your license request. For more information about writing a pitch, see [Pitch details](#pitch-details).
 6. (For time-limited licenses) Under **Proposed date range**, use the calendar to set the proposed dates that your game will incorporate the IP. Start and end times for time-limited licenses are based on midnight UTC.
